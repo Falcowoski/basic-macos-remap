@@ -6,5 +6,8 @@
 # Build output
 dist/*.json
 
+# Local configuration
+config.jsonnet
+
 # Karabiner backup
 *.backup

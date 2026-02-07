@@ -1,0 +1,6 @@
+{
+  external_keyboard: {
+    vendor_id: 1234,
+    product_id: 5678,
+  },
+}
