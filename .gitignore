@@ -1,0 +1,10 @@
+# macOS metadata (invisible file created by Finder in every folder)
+# Contains icon positions, window size, view settings
+# Should never be committed to git
+.DS_Store
+
+# Build output
+dist/*.json
+
+# Karabiner backup
+*.backup
