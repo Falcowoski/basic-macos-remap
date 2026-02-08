@@ -12,6 +12,7 @@ local terminals = [
   '^net\\.kovidgoyal\\.kitty$',
   '^org\\.alacritty$',
   '^com\\.github\\.wez\\.wezterm$',
+  '^dev\\.zed\\.Zed$',
 ];
 
 local manipulator(from_key, from_mods, to_key, to_mods, exclude_terminals=false) = {
